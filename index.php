@@ -10,10 +10,9 @@
   <meta content="" name="keywords">
 
 
-  <!-- Google Fonts -->
+
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -22,7 +21,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-  <!-- Template Main CSS File -->
+
   <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
@@ -31,7 +30,7 @@
 
 
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
-  <!-- ======= Header ======= -->
+
   <header id="header" class="d-flex flex-column justify-content-center">
 
     <nav id="navbar" class="navbar nav-menu">
@@ -51,7 +50,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>Gabriel Verduzco</h1>
-      <p>I'm <span class="typed" data-typed-items="Developer, Brewmaster, Freelancer, Entrepeneneur"></span></p>
+      <p>I'm <span class="typed" data-typed-items="Developer, Brewmaster, Freelancer, Entrepeneur"></span></p>
       <div class="social-links">
         <a href="https://www.linkedin.com/in/francisco-gabriel-verduzco-acevedo-693b79189/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
@@ -425,7 +424,7 @@
         <a href="https://www.linkedin.com/in/francisco-gabriel-verduzco-acevedo-693b79189/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>My Resume</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>GaboGabitoProductions</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
        
